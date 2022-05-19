@@ -1,2 +1,2 @@
-# template-spring-boot
-This is a template for spring boot project
+# template-spring-webflux
+This is a template for spring webflux project
