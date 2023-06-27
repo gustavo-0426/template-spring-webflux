@@ -1,0 +1,9 @@
+version: '3.9'
+services:
+  template:
+    build: .
+    image: gustavo0426/template-spring-webflux:1.0.0
+    container_name: template-spring-webflux
+    restart: always
+    ports:
+      - 9090:9090
